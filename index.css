@@ -1,0 +1,45 @@
+header{
+	border: 2px solid black;
+	border-radius: 5px;
+	font-family:system-ui;
+	text-align: center;
+	background: linear-gradient(to bottom, #C7EEF2, black);
+	color: white;
+}
+
+.section1{
+	float: right;
+	padding-top: 30px;
+}
+
+.section2{
+	float: left;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.div1{
+	border: 5px solid black;
+	border-radius: 10px;
+	width: 1200px;
+	height: 1000px;
+	font-size: 16px;
+	font-family: American Typewriter, serif;
+	margin: auto;
+	box-shadow: 2px 4px 3px black;
+	padding: 1em;
+}
+footer{
+	clear: both;
+	border: 2px solid black;
+	width: 100%;
+	height: 20%;
+	border-radius: 2px;
+	padding-top: 60px;
+	font-family: system-ui;
+	text-align: center;
+	background: linear-gradient(to right, #C7EEF2, black);
+
+}
+
+

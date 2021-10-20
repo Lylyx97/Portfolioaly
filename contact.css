@@ -1,0 +1,22 @@
+ul li{
+	list-style-type: none;
+	font-size: 20px;
+	font-family: system-ui;
+}
+
+body{
+	background: linear-gradient(to right, #C7EEF2, black);
+	margin: auto;
+}
+
+p{
+	font-size: 50px;
+	font-family: system-ui;
+	
+}
+
+h1{
+	font-size: 45px;
+	color: linear-gradient(to right, #C7EEF2, black);
+	font-family: system-ui;
+}
